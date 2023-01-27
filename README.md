@@ -1,7 +1,7 @@
 <h1 align="center">Hola a todos👋, Yo soy Luis Sancho</h1>
 <h3 align="center">Un entuciasta programador en Ecuador.</h3>
 
-<p align="left"> <img src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp" alt="kidbucle" /> </p>
+<p align="center"> <img src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp" alt="kidbucle" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kidbucle" alt="kidbucle" /></a> </p>
 
